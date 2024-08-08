@@ -4,7 +4,7 @@ import pandas as pd
 import streamlit as st
 
 """
-# Welcome to Streamlit - v2!
+# Welcome to Streamlit - v3!
 
 
 Edit `/streamlit_app.py` to customize this app to your heart's desire :heart:.
